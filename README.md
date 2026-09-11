@@ -119,3 +119,5 @@ multiple people to use safely. If you want that:
 - Add a real database (Postgres/SQLite) and move transactions/goals server-side,
   scoped per user.
 - Move the rate limiter to be per-user rather than per-IP.
+- <img width="1901" height="1023" alt="image" src="https://github.com/user-attachments/assets/d5bc2527-6081-43b5-b746-3e9e89abe43c" />
+
